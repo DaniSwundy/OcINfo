@@ -5,7 +5,7 @@ Site personnel pour le cours complémentaire d'informatique au Gymnase du Bugnon
 
 * Les nombres binaires  
 * Langage de programmation  
-* **Introduction à *Python* :**  
+* Introduction à *Python* :  
     -dictionnaires  
     -tuples  
     -listes  
